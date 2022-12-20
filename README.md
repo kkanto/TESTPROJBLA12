@@ -1,2 +1,2 @@
-# TESTPROJBLA12
-This is TESTPROJBLA12
+# maven_template
+This is testow2o12345
